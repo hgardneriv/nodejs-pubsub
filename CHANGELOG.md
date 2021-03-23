@@ -4,6 +4,15 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/pubsub?activeTab=versions
 
+### [2.10.1](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.10.0...v2.10.1) (2021-03-23)
+
+
+### Bug Fixes
+
+* follow-on proto updates from the removal of the common protos ([#1229](https://www.github.com/googleapis/nodejs-pubsub/issues/1229)) ([cb627d5](https://www.github.com/googleapis/nodejs-pubsub/commit/cb627d5555c617eb025181c9f9aaf1d2c9621a86))
+* prevent attempt to publish 0 messages ([#1218](https://www.github.com/googleapis/nodejs-pubsub/issues/1218)) ([96e6535](https://www.github.com/googleapis/nodejs-pubsub/commit/96e653514b35d61f74ba2d5d6fa96e19bc45bf8c))
+* remove common protos ([#1232](https://www.github.com/googleapis/nodejs-pubsub/issues/1232)) ([8838288](https://www.github.com/googleapis/nodejs-pubsub/commit/883828800c94f7ea21c8306d272b70b4576c664c))
+
 ## [2.10.0](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.9.0...v2.10.0) (2021-02-22)
 
 
